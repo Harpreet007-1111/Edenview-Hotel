@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Edenview/static/css/main.202b12ce.css",
+    "main.js": "/Edenview/static/js/main.9cfcd6fb.js",
+    "static/js/787.e41e9baa.chunk.js": "/Edenview/static/js/787.e41e9baa.chunk.js",
+    "static/media/main.png": "/Edenview/static/media/main.b2ae31536d7096f04074.png",
+    "index.html": "/Edenview/index.html",
+    "main.202b12ce.css.map": "/Edenview/static/css/main.202b12ce.css.map",
+    "main.9cfcd6fb.js.map": "/Edenview/static/js/main.9cfcd6fb.js.map",
+    "787.e41e9baa.chunk.js.map": "/Edenview/static/js/787.e41e9baa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202b12ce.css",
+    "static/js/main.9cfcd6fb.js"
+  ]
+}
